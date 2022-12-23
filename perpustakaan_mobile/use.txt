@@ -1,0 +1,4 @@
+cara menggunakan apk mobile pada perpustakaan_mobile adalah yaitu : 
+1. ketik di terminal/cmd/powershell flutter build apk kemudian klik enter
+2. tunggu sampai selesai dan..
+3. perpustakaan_mobile siap digunakan

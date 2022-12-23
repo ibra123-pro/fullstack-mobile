@@ -1,0 +1,5 @@
+cara menggunakan data api pada perpustakaan_api adalah yaitu : 
+1. ketik di terminal/cmd/powershell npm install nodemon --save-dev kemudian klik enter
+2. tunggu sampai selesai install
+3. setelah selesai ketik npm run start dan...
+4. perpustakaan_api siap digunakan
